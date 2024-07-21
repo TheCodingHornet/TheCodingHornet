@@ -1,9 +1,11 @@
 
 <h1 align="center">Simon Stephan 👽</h1>
+<p align="center"><i>Tell a developer, there's already a script that does this, it's like telling a singer that a love song already exists...</i></p>
+
 <h2 align="center"> The Coding Hornet! 🐝</h2>
 
-<blockquote align="center">Tell a developer, there's already a script that does this...<br/>
-... It's like telling a singer that a love song already exists...</blockquote>
+
+
 
 <p>Hello! I'm Simon, born in 1988 🎂, a passionate researcher 🧪🔬 and experienced full-stack developer 👨‍💻 with a strong background in project and team management 📈👥.</p>
 
